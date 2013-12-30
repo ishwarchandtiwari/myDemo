@@ -6,7 +6,7 @@
 	<script src="validatelogin.js"></script>
 </head>
 <body>
-    <form name="login">kkkkkkkkkkkkkkkkkkkkkkkkkkk
+    <form name="login">kkkkkkkkkkfffffff
     <table border="0" align="center" bgcolor="#999900">
       <tr>
         <td ><label for="name">User Name:*</label></td>
